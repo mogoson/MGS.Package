@@ -1,0 +1,31 @@
+{
+    "name": "com.mgs.package",
+    "version": "1.0.0",
+    "displayName": "Package",
+    "description": "This is an example package",
+    "unity": "2021.3",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+        "com.mgs.package1": "1.0.0",
+        "com.mgs.package2": "https://github.example.com/myuser/myrepository.git?path=/folder#v1.0.0"
+    },
+    "keywords": [
+        "keyword1",
+        "keyword2",
+        "keyword3"
+    ],
+    "author": {
+        "name": "Mogoson",
+        "email": "mogoson@outlook.com",
+        "url": "https://www.mogoson.com"
+    },
+    "samples": [
+        {
+            "displayName": "SampleName",
+            "description": "This is an example",
+            "path": "Samples~/SampleName"
+        }
+    ]
+}
