@@ -4,6 +4,6 @@ All notable changes to this package will be documented in this file. The format 
 
 ## [1.0.0] - 2025-09-04
 
-### Add
+### Release
 
-- Add log.
+- Release as standard Unity package.
