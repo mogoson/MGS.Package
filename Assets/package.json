@@ -23,9 +23,9 @@
     },
     "samples": [
         {
-            "displayName": "SampleName",
-            "description": "This is an example",
-            "path": "Samples~/SampleName"
+            "displayName": "Sample",
+            "description": "Sample for this package",
+            "path": "Samples~/Sample"
         }
     ]
 }
