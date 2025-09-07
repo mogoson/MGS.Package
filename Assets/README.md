@@ -20,6 +20,7 @@ Custom package template for Unity.
 
 ## Usage
 
+- Clone repository.
 - Copy the **Assets** directory to your project.
 
 ---
