@@ -23,6 +23,10 @@ Custom package template for Unity.
 - Clone repository.
 - Copy the **Assets** directory to your project.
 
+## Samples
+
+- Unity --> Window --> Package Manager --> Packages-Mogoson --> Package --> Samples.
+
 ---
 
 Copyright © 2025 Mogoson.	mogoson@outlook.com
