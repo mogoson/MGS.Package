@@ -29,4 +29,4 @@ Custom package template for Unity.
 
 ---
 
-Copyright © 2025 Mogoson.	mogoson@outlook.com
+Copyright © 2026 Mogoson.	mogoson@outlook.com
