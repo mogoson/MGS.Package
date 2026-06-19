@@ -13,7 +13,7 @@ Custom package template for Unity.
 ## Usage
 
 - Clone repository.
-- Copy the **Assets** directory to your project.
+- Open with Unity and develop your plugin package.
 
 ---
 
